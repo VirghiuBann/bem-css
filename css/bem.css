@@ -1,0 +1,31 @@
+body{
+    padding-top: 10px;
+}
+.btn{
+    font-weight: normal;
+    font-size: 18px;
+    padding: 10px 30px;
+    margin: 10px;
+    outline: none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.btn--mediano{
+    padding: 5px 15px;
+    font-size: 15px;
+}
+.btn--claro{
+    background-color: #fff;
+    border: 1px solid #aaa;
+    color: #aaa;
+}
+.btn--claro:hover{
+    color: tomato;
+    border-color: tomato;
+}
+.btn--oscuro{
+    background-color: #000;
+    border:1px solid #e8e8e8;
+    color: #fff;
+}
